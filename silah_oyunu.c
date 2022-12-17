@@ -6,7 +6,7 @@ int main()
     int secim;
     int i = 0;
     int sayi;
-    printf("Ateþ etmek istediðiniz mermi sayisini giriniz");
+    printf("Ates etmek istediðiniz mermi sayisini giriniz");
     scanf("%d", &sayi);
 
     for (i = 0; i <= sayi; i++)
